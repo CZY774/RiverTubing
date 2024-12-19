@@ -61,7 +61,7 @@
             <a href="/" class="navbar-brand p-0">
                 <h1 class="m-0"><i></i></h1>
                 <img src="img/Wonderful_Indonesia_logo.png" class="img-fluid" alt="Logo Siap">
-                <img src="img/logo mrt 1.PNG" class="img-fluid" alt="Logo MRT">
+                <img src="img/logo mrt 1.png" class="img-fluid" alt="Logo MRT">
                 <img src="img/MRT SIAP OKE FIX CROP.png" class="img-fluid" alt="Logo Siap">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
