@@ -71,7 +71,7 @@
                 </ol>
                 <div class="carousel-inner" role="listbox">
                     <div class="carousel-item active">
-                        <img src="img/tubing1.JPG" class="img-fluid" alt="Image">
+                        <img src="img/tubing1.jpg" class="img-fluid" alt="Image">
                         <div class="carousel-caption">
                             <div class="p-3" style="max-width: 900px;">
                                 <h4 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Nikmati petualangan aliran sungai yang memukau!</h4>
@@ -82,7 +82,7 @@
                     </div>
                     
                     <div class="carousel-item">
-                        <img src="img/tubing9.JPG" class="img-fluid" alt="Image">
+                        <img src="img/tubing9.jpg" class="img-fluid" alt="Image">
                         <div class="carousel-caption">
                             <div class="p-3" style="max-width: 900px;">
                                 <h4 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Ditangani oleh tenaga profesional</h4>
@@ -113,7 +113,7 @@
             <div class="row g-5 align-items-center">
                 <div class="col-lg-5">
                     <div class="h-100" style="border: 50px solid; border-color: transparent #13357B transparent #13357B;">
-                        <img src="img/tubing3.JPG" class="img-fluid w-100 h-100" alt="">
+                        <img src="img/tubing3.jpg" class="img-fluid w-100 h-100" alt="">
                     </div>
                 </div>
                 <div class="col-lg-7" style="background: linear-gradient(rgba(255, 255, 255, .8), rgba(255, 255, 255, .8));">
@@ -248,7 +248,7 @@
                 <!-- River Tubing Program -->
                 <div class="col-lg-4 col-md-6">
                     <div class="service-item bg-white rounded shadow-sm overflow-hidden h-100">
-                        <img src="img\tubing7.JPG" class="img-fluid mb-3" alt="Camping">
+                        <img src="img\tubing7.jpg" class="img-fluid mb-3" alt="Camping">
                         <div class="p-4">
                             <h5 class="mb-3">River Tubing</h5>
                             <p class="text-muted">Rasakan sensasi menyusuri sungai dengan tube, cocok untuk pemula hingga yang berpengalaman.</p>
