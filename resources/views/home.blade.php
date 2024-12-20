@@ -76,7 +76,7 @@
                             <div class="p-3" style="max-width: 900px;">
                                 <h4 class="text-white text-uppercase fw-bold mb-4" style="letter-spacing: 3px;">Nikmati petualangan aliran sungai yang memukau!</h4>
                                 <h1 class="display-2 text-capitalize text-white mb-4">Muncul River Tubing</h1>
-                                <p class="mb-5 fs-5">Terletak di Desa Rowogono, Kecamatan Banyubiru, Kabupaten Semarang.</p>
+                                <p class="mb-5 fs-5">Terletak di Desa Rowoboni, Kecamatan Banyubiru, Kabupaten Semarang.</p>
                             </div>
                         </div>
                     </div>
