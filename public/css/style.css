@@ -264,6 +264,12 @@
     }
 }
 
+@media (max-width: 767.98px) {
+    .navbar-light .navbar-brand img {
+        max-height: 35px;
+    }
+}
+
 @media (min-width: 992px) {
     .navbar-light {
         position: absolute;
