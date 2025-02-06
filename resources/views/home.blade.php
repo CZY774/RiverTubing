@@ -7,7 +7,7 @@
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
     <meta name="description" content="Muncul River Tubing - Nikmati petualangan tubing seru di sungai alami dengan pemandangan alam yang memukau. Berlokasi di kawasan wisata Muncul, menawarkan aktivitas air yang menyenangkan untuk keluarga dan wisatawan.">
     <meta name="keywords" content="river tubing, wisata air, muncul river tubing, wisata muncul, tubing sungai, wisata alam, aktivitas outdoor, wisata keluarga, wisata petualangan">
-    <meta property="og:title" content="Muncul River Tubing | Wisata Air Petualangan">
+    <meta property="og:title" content="Muncul River Tubing">
     <meta property="og:description" content="Jelajahi keseruan river tubing di kawasan wisata Muncul. Nikmati sensasi mengapung di sungai alami dengan fasilitas lengkap dan pemandu berpengalaman.">
     <link rel="icon" type="image/x-icon" href="img/logo mrt 1.png">
 
