@@ -5,8 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Sertifikat & Lisensi - MRT</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta name="description" content="Lihat sertifikat dan lisensi resmi Muncul River Tubing. Kami berkomitmen menjaga standar keamanan dan kualitas pelayanan wisata air terbaik.">
+    <meta name="keywords" content="sertifikat muncul river tubing, lisensi wisata air, standar keamanan river tubing, sertifikasi wisata">
+    <meta property="og:title" content="Sertifikat & Lisensi | Muncul River Tubing">
+    <meta property="og:description" content="Informasi lengkap tentang sertifikat dan lisensi resmi Muncul River Tubing yang menjamin keamanan dan kenyamanan wisatawan.">
     <link rel="icon" type="image/x-icon" href="img/logo mrt 1.png">
 
     <!-- Google Web Fonts -->

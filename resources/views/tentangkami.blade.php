@@ -5,8 +5,10 @@
     <meta charset="utf-8">
     <title>Tentang Kami - MRT</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta name="description" content="Kenali lebih dekat Muncul River Tubing, destinasi wisata air terbaik dengan pengalaman bertahun-tahun dalam menyajikan petualangan river tubing yang aman dan menyenangkan.">
+    <meta name="keywords" content="profil muncul river tubing, sejarah wisata muncul, tim river tubing, visi misi wisata air">
+    <meta property="og:title" content="Tentang Kami | Muncul River Tubing">
+    <meta property="og:description" content="Pelajari sejarah dan perkembangan Muncul River Tubing sebagai destinasi wisata air unggulan dengan standar keamanan terbaik.">
     <link rel="icon" type="image/x-icon" href="img/logo mrt 1.png">
 
     <!-- Google Web Fonts -->
@@ -57,7 +59,7 @@
                     <a href="/" class="nav-item nav-link">Beranda</a>
                     <a href="/galeri" class="nav-item nav-link">Galeri Pelanggan</a>
                     <a href="/tentangkami" class="nav-item nav-link active">Tentang Kami</a>
-                    <a href="/saran" class="nav-item nav-link">Saran & Kritik</a>
+                    <a href="/saran" class="nav-item nav-link">Kritik & Saran</a>
                 </div>
             </div>
         </nav>

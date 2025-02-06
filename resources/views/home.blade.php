@@ -3,10 +3,12 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Beranda - MRT</title>
+    <title>Muncul River Tubing</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta name="description" content="Muncul River Tubing - Nikmati petualangan tubing seru di sungai alami dengan pemandangan alam yang memukau. Berlokasi di kawasan wisata Muncul, menawarkan aktivitas air yang menyenangkan untuk keluarga dan wisatawan.">
+    <meta name="keywords" content="river tubing, wisata air, muncul river tubing, wisata muncul, tubing sungai, wisata alam, aktivitas outdoor, wisata keluarga, wisata petualangan">
+    <meta property="og:title" content="Muncul River Tubing | Wisata Air Petualangan">
+    <meta property="og:description" content="Jelajahi keseruan river tubing di kawasan wisata Muncul. Nikmati sensasi mengapung di sungai alami dengan fasilitas lengkap dan pemandu berpengalaman.">
     <link rel="icon" type="image/x-icon" href="img/logo mrt 1.png">
 
     <!-- Google Web Fonts -->
@@ -56,7 +58,7 @@
                     <a href="/" class="nav-item nav-link active">Beranda</a>
                     <a href="/galeri" class="nav-item nav-link">Galeri Pelanggan</a>
                     <a href="/tentangkami" class="nav-item nav-link">Tentang Kami</a>
-                    <a href="/saran" class="nav-item nav-link">Saran & Kritik</a>
+                    <a href="/saran" class="nav-item nav-link">Kritik & Saran</a>
                 </div>
             </div>
         </nav>

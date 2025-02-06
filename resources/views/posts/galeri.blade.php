@@ -5,8 +5,10 @@
     <meta charset="utf-8">
     <title>Galeri - MRT</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta name="description" content="Lihat koleksi foto dan video keseruan aktivitas river tubing di Muncul. Dokumentasi pengalaman seru pengunjung dan keindahan alam sekitar.">
+    <meta name="keywords" content="foto muncul river tubing, galeri wisata air, dokumentasi river tubing, video tubing sungai, foto wisata muncul">
+    <meta property="og:title" content="Galeri | Muncul River Tubing">
+    <meta property="og:description" content="Kumpulan foto dan video menarik dari berbagai aktivitas di Muncul River Tubing. Lihat keseruan pengunjung dalam menikmati wisata air kami.">
     <link rel="icon" type="image/x-icon" href="img/logo mrt 1.png">
 
     <!-- Google Web Fonts -->
@@ -72,7 +74,7 @@
                     <a href="/" class="nav-item nav-link">Beranda</a>
                     <a href="/galeri" class="nav-item nav-link active">Galeri Pelanggan</a>
                     <a href="/tentangkami" class="nav-item nav-link">Tentang Kami</a>
-                    <a href="/saran" class="nav-item nav-link">Saran & Kritik</a>
+                    <a href="/saran" class="nav-item nav-link">Kritik & Saran</a>
                 </div>
             </div>
         </nav>

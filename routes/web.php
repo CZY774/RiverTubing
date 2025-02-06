@@ -48,10 +48,6 @@ Route::get('/login', [AuthController::class, 'showLoginForm'])->name('login');
 Route::post('/login', [AuthController::class, 'login'])->name('login');
 Route::get('/logout', [AuthController::class, 'logout'])->name('logout');
 
-
-Route::middleware(['auth'])->group(function () { Route::get('/posts', [PostController::class, 'index'])->name('posts.index');
-Route::get('/ShowSaran', [SaranController::class, 'index'])->name('show.saran'); });
-
 Route::middleware(['auth'])->group(function () {
     Route::put('/users/{username}', [AuthController::class, 'editUser'])->name('users.edit');
     Route::delete('/users/{username}', [AuthController::class, 'deleteUser'])->name('users.delete');

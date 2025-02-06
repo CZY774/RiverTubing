@@ -4,6 +4,8 @@
 <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>MRT - Admin Dashboard</title>
+    <meta name="robots" content="noindex, nofollow">
+    <meta name="description" content="Halaman admin Muncul River Tubing">
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>

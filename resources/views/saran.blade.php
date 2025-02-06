@@ -5,8 +5,10 @@
     <meta charset="utf-8">
     <title>Kritik & Saran - MRT</title>
     <meta content="width=device-width, initial-scale=1.0" name="viewport">
-    <meta content="" name="keywords">
-    <meta content="" name="description">
+    <meta name="description" content="Sampaikan kritik, saran, dan masukan Anda untuk Muncul River Tubing. Kami menghargai setiap feedback untuk meningkatkan layanan wisata air kami.">
+    <meta name="keywords" content="kritik saran muncul river tubing, feedback wisata, ulasan pengunjung, testimoni river tubing">
+    <meta property="og:title" content="Kritik & Saran | Muncul River Tubing">
+    <meta property="og:description" content="Berikan masukan Anda untuk pengembangan wisata Muncul River Tubing. Setiap saran Anda sangat berarti bagi kami.">
     <link rel="icon" type="image/x-icon" href="img/logo mrt 1.png">
 
     <!-- Google Web Fonts -->
@@ -57,7 +59,7 @@
                     <a href="/" class="nav-item nav-link">Beranda</a>
                     <a href="/galeri" class="nav-item nav-link">Galeri Pelanggan</a>
                     <a href="/tentangkami" class="nav-item nav-link">Tentang Kami</a>
-                    <a href="/saran" class="nav-item nav-link active">Saran & Kritik</a>
+                    <a href="/saran" class="nav-item nav-link active">Kritik & Saran</a>
                 </div>
             </div>
         </nav>

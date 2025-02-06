@@ -19,7 +19,7 @@ class SaranController extends Controller
         $saran->description = $request->description;
         $saran->save();
 
-        return redirect('tentangkami')->with('status', 'Form Data Has Been inserted');
+        return redirect('home')->with('status', 'Form Data Has Been inserted');
     }
 
 
